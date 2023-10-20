@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Indhu Vegineti</h1>
 <h3 align="center">A self-motivated individual with a knack for analytical thinking</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indhu3279" alt="indhu3279" /></a> </p>
-
 - 🌱 I’m currently learning **Cloud Computing**
 
 - 📫 How to reach me **indhu.vegineti123@gmail.com**
