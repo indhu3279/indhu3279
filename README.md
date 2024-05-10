@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Indhu Vegineti</h1>
 <h3 align="center">A self-motivated individual with a knack for analytical thinking</h3>
 
-- 🌱 I’m currently learning **Cloud Computing**
-
 - 📫 How to reach me **indhu.vegineti123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
